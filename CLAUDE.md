@@ -14,7 +14,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## GitHubリポジトリ
 
-未作成（作成したら URL をここに書く）
+https://github.com/TypeR0999/task-board-practice.git
+
 
 ## Git運用ルール
 
